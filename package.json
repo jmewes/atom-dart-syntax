@@ -1,0 +1,21 @@
+{
+  "name": "dart-syntax",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for Dart",
+  "engines": {
+    "atom": "*"
+  },
+  "keywords": [
+    "dart",
+    "dartlang"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmewes/atom-dart-syntax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmewes/atom-dart-syntax/issues"
+  },
+  "license": "BSD"
+}
